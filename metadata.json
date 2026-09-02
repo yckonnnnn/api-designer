@@ -1,0 +1,6 @@
+{
+  "name": "福易通API - Agent接入大模型统一入口",
+  "description": "福易通API (FYT Router) - 专为 Agent 与企业级开发者打造的统一大模型智能路由层，实时折扣低至1折，毫秒级容灾切换与提示词缓存。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
